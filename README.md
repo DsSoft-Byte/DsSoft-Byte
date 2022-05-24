@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DsSoft-Byte
 - 👀 I’m interested in iOS Jailbreaking.
 - 🌱 Im Learning C++
-- 💞️ Im Currently Programming Windst0rm. The Ultimate iOS Unlocking tool.
+- 💞️ Many thanks to Josh from freedns.afraid.org for my FREE DNS!
 - 📫 You Can Reach me on Reddit: The_Hackintosh.
 
 <!---
