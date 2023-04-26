@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @DsSoft-Byte
-- 👀 I’m interested in iOS Jailbreaking.
-- 🌱 Im Learning C++
-- 💞️ Many thanks to Josh from freedns.afraid.org for my FREE DNS!
-- 📫 You Can Reach me on Reddit: The_Hackintosh.
+- Hi, I'm Daniel i am a Car guy that loves coding and defeating Apple's security mechanisms, available for hire at all times (min 10USD/H)
+- I’m interested in iOS Jailbreaking and modifiying vehicles above legal limits aswell as occasinally fucking Apple over.
+- You Can Reach me on Reddit: u/the_hackintosh.
 
 <!---
 DsSoft-Byte/DsSoft-Byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
